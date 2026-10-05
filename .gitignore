@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+browser_profile*/
+session_pdfs/
+saved_pdfs/
+PDF_Saver_All_PDFs.zip
+*.zip
+.DS_Store
+
